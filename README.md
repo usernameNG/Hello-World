@@ -1,2 +1,2 @@
 # Hello-World
-Demo
+print ("hello world")
